@@ -8,6 +8,5 @@ namespace azhar_demo
 {
     internal class Customer
     {
-        //Comment
     }
 }
